@@ -23,6 +23,12 @@
  This example code is in the public domain
 
  http://www.arduino.cc/en/Tutorial/SimpleAudioPlayer
+ 
+ 
+ *******************************************************
+ edited by Behnam Zakizadeh @ 2020-10-07
+ https://github.com/Behnamzaki/arduino-wave-player/
+ add oled ssd1306
 
 */
 
